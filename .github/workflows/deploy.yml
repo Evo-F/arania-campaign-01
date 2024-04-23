@@ -34,10 +34,11 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18.14
-      - name: Install Dependencies
-        run: npm i
-      - name: Build Quartz
-        run: npx quartz build
+      - name: Install Dependencies + Build
+        working-directory: ./quartz
+        run: |
+          npm i
+          npx quartz build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
