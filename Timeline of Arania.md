@@ -3,20 +3,21 @@ What follows is an accurate and faultless account of the known history of the la
 At present, The Timekeepers hold that is the **206th Year of the 5th Cycle**.
 
 # 1st Cycle
-- Lorum ipsum.
+- The Timekeepers have not sanctioned any events to be recorded here at this time.
 
 # 2nd Cycle
-- Lorum ipsum.
+- The Timekeepers have not sanctioned any events to be recorded here at this time.
 
 # 3rd Cycle
-- Lorum ipsum.
+- The Timekeepers have not sanctioned any events to be recorded here at this time.
 
 # 4th Cycle (1114 Years)
 - 902
-	- [[Yarbus Ossetius]] decrees the closure of all institutions of learning, ushering in what is now known as the [[Nightfall]]. The Nightfall lasts for the remainder of the 4th Cycle.
-	- The royal army of Ch'ingua attempts to sack [[The Grand Library]] of [[Carrin]], finding it mostly empty. All members of [[The Librarians' Guild]] are escorted from the library and executed. 
+	- [[Yarbus Ossetius|King Yarbus of Ch'ingua]] decrees the closure of all institutions of learning and the prosecution of practitioners thereof.
+		- *See [[Nightfall]].*
+		- *See [[Royal Decree on the Seditious Nature of Scholars and Scholarship]].*
 - 911
-	- King Yarbus of Ch'ingua survives an assassination attempt. 
+	- King Yarbus of Ch'ingua survives an assassination attempt. Two more follow in the coming months.
 - 930
 	- The royal court in [[Stonehall]] declares the death of King Yarbus and the ascension of his son, Lysander, to the throne of Ch'ingua. He is crowned King Lysander II. 
 - 989
@@ -28,6 +29,13 @@ At present, The Timekeepers hold that is the **206th Year of the 5th Cycle**.
 	- King Michael I of Ch'ingua revokes the [[Royal Decree on the Seditious Nature of Scholars and Scholarship]]. This effectively ends the Nightfall, and The Timekeepers declare this momentous occasion as the end of the 4th Cycle.
 
 # 5th Cycle (Present)
+- 12
+	- A military coup dissolves the Eastern Union of Cretias and forms the Cretian Protectorate. 
+- 21
+	- The Cretian Protectorate invades the Western Republic of Cretias and annexes the entire country in roughly two weeks. Following their victory, the Cretian Protectorate renames itself "Cretias."
+		- *See [[Foundation of Modern Cretias]]*
+- 33
+	- An incident of unknown origin disrupts the protection charm surrounding [[The Grand Library]], resulting in the discovery of a massive cache of works previously believed lost during the Nightfall period.
+	- This discovery prompts the creation of The Grand Archives. 
 - 161
 	- *See [[The Verny Conflict]]*.
-- 
