@@ -32,7 +32,10 @@ jobs:
       ############# Copies the contents of our repo into the quartz/content directory.
       ############# This is the directory of .md files that Quartz will build our site from.
       - name: Copy MD To Quartz
-        run: cp -a ./markdown/. ./quartz/content
+        run: |
+          shopt -s extglob
+          cd ./markdown
+          cp -a !(quartz.config.ts) ../quartz/content
       ############# Set up NodeJS on our runner.
       - uses: actions/setup-node@v3
         with:
