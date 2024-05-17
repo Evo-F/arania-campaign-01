@@ -13,8 +13,8 @@ This particular page, the one you are reading right now, is the only page where 
 - [[Arania - Political Brief|A basic explanation of the great powers of Arania.]]
 - [[Timeline of Arania|A faultless accounting of the major events of Arania up to the present day.]]
 - [[The Librarians' Guild|A brief and blunt overview of who we are.]]
+- [[Aranian Gods and Deities|A simple primer to the gods of Arania.]]
 
 ---
-
 
 *DM's Note - Everything visible here is considered either common knowledge or has been revealed to the party over time. Expect this compendium to update frequently.*
