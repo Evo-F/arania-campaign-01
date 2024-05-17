@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Light, Dark, Duality
-**Preferred Offerings**: Libations, Burnt Offerings
-**Preferred Mode of Worship**: Invocation, Prayer
-**Temperament**: Stern
-**Opinion of Mortals:** High Expectations
-**Requires Exclusivity/Devotion For Boons**: Yes
-**Default Nature of Boons**: Magical
+- **Sphere of Influence**: Light, Dark, Duality
+- **Preferred Offerings**: Libations, Burnt Offerings
+- **Preferred Mode of Worship**: Invocation, Prayer
+- **Temperament**: Stern
+- **Opinion of Mortals:** High Expectations
+- **Requires Exclusivity/Devotion For Boons**: Yes
+- **Default Nature of Boons**: Magical
 
 # Description
 Lumaris is the goddess of light and dark, and is considered the patron of duality and balance. Although she is primarily associated with light and darkness, Lumaris traditionally has dominion over any circumstance where balance is concerned. 

@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Water, Oceans, Rivers
-**Preferred Offerings**: Libations
-**Preferred Mode of Worship**: Invocation, Prayer, Libations
-**Temperament**: Unpredictable
-**Opinion of Mortals:** Indifferent
-**Requires Exclusivity/Devotion For Boons**: Yes
-**Default Nature of Boons**: Magical
+- **Sphere of Influence**: Water, Oceans, Rivers
+- **Preferred Offerings**: Libations
+- **Preferred Mode of Worship**: Invocation, Prayer, Libations
+- **Temperament**: Unpredictable
+- **Opinion of Mortals:** Indifferent
+- **Requires Exclusivity/Devotion For Boons**: Yes
+- **Default Nature of Boons**: Magical
 
 # Description
 Rhen is the goddess of water and the seas. In accordance with her dominion, Rhen primarily accepts offerings in the form of libations, and asks that her followers honor her through direct prayer. 

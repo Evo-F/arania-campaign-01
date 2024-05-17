@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Chance, Gambling, Luck
-**Preferred Offerings**: Libations, Monetary
-**Preferred Mode of Worship**: Invocation
-**Temperament**: Cavalier
-**Opinion of Mortals:** Indifferent
-**Requires Exclusivity/Devotion For Boons**: Yes
-**Default Nature of Boons**: Material
+- **Sphere of Influence**: Chance, Gambling, Luck
+- **Preferred Offerings**: Libations, Monetary
+- **Preferred Mode of Worship**: Invocation
+- **Temperament**: Cavalier
+- **Opinion of Mortals:** Indifferent
+- **Requires Exclusivity/Devotion For Boons**: Yes
+- **Default Nature of Boons**: Material
 
 # Description
 Olenna is the goddess of chance and luck, and holds sway over that which cannot be controlled. In addition to drink, Olenna accepts monetary offerings from those who wish to curry favor with her. In particular, she expects believers to express gratitude and recognition to her when things go their way. 

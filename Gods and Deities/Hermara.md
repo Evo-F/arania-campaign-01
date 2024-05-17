@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Fertility, Peace
-**Preferred Offerings**: Libations, Burnt Offerings
-**Preferred Mode of Worship**: Prayer
-**Temperament**: Gentle
-**Opinion of Mortals:** Caring/Parental
-**Requires Exclusivity/Devotion For Boons**: No
-**Default Nature of Boons**: Spiritual
+- **Sphere of Influence**: Fertility, Peace
+- **Preferred Offerings**: Libations, Burnt Offerings
+- **Preferred Mode of Worship**: Prayer
+- **Temperament**: Gentle
+- **Opinion of Mortals:** Caring/Parental
+- **Requires Exclusivity/Devotion For Boons**: No
+- **Default Nature of Boons**: Spiritual
 
 # Description
 Hermara is the goddess of fertility and holds sway over peace and gentleness among peoples. Hermara prefers that her followers pray directly to her, and accepts offerings of both drink and burnt food offerings. She is considered the partner of [[Trachan]], but the two are not wed. 

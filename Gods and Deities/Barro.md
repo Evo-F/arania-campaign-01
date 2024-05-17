@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: War, Violence
-**Preferred Offerings**: Human Sacrifice, Bloodshed
-**Preferred Mode of Worship**: Invocation
-**Temperament**: Haughty
-**Opinion of Mortals:** Amusement
-**Requires Exclusivity/Devotion For Boons**: Yes
-**Default Nature of Boons**: Material
+- **Sphere of Influence**: War, Violence
+- **Preferred Offerings**: Human Sacrifice, Bloodshed
+- **Preferred Mode of Worship**: Invocation
+- **Temperament**: Haughty
+- **Opinion of Mortals:** Amusement
+- **Requires Exclusivity/Devotion For Boons**: Yes
+- **Default Nature of Boons**: Material
 
 # Description
 Barro is the god of war and violence, and his dominion is all that is motivated or moved by aggression. Barro is by far the most demanding of the major gods, as he is only pacified by direct human sacrifice or the shedding of blood in his name. He will not respond to prayers or offerings of any other kind, and bestows favor only on those who wound and kill in his name. 

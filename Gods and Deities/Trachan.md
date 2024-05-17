@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Sky, Winds, Honor
-**Preferred Offerings**: Libations
-**Preferred Mode of Worship**: Offerings, Invocation
-**Temperament**: Flat Affect
-**Opinion of Mortals:** Indifferent
-**Requires Exclusivity/Devotion For Boons**: No
-**Default Nature of Boons**: Spiritual
+- **Sphere of Influence**: Sky, Winds, Honor
+- **Preferred Offerings**: Libations
+- **Preferred Mode of Worship**: Offerings, Invocation
+- **Temperament**: Flat Affect
+- **Opinion of Mortals:** Indifferent
+- **Requires Exclusivity/Devotion For Boons**: No
+- **Default Nature of Boons**: Spiritual
 
 # Description
 Trachan (pronounced trah-kahn) is the god of the sky. He holds sway over not just the sky, but the winds and stars which move among it. Trachan is considered a just and fair god, and despite his typical disregard for mortals, he is generally considered the patron of worldly honor and justice.

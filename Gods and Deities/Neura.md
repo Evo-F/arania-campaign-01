@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Science, Knowledge, Learning
-**Preferred Offerings**: N/A
-**Preferred Mode of Worship**: Invocation
-**Temperament**: Stern
-**Opinion of Mortals:** Indifferent
-**Requires Exclusivity/Devotion For Boons**: No
-**Default Nature of Boons**: Spiritual
+- **Sphere of Influence**: Science, Knowledge, Learning
+- **Preferred Offerings**: N/A
+- **Preferred Mode of Worship**: Invocation
+- **Temperament**: Stern
+- **Opinion of Mortals:** Indifferent
+- **Requires Exclusivity/Devotion For Boons**: No
+- **Default Nature of Boons**: Spiritual
 
 # Description
 Neura is the goddess of science and knowledge, and governs the entire sphere of learning and education. In comparison to other gods, Neura requires very little from her followers - she is not partial to offerings, and only desires that she be invoked in relevant circumstances. 

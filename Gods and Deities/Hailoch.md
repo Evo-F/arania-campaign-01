@@ -1,11 +1,11 @@
 # Summary
-**Sphere of Influence**: Hot Fire, Smithing, Weaponry
-**Preferred Offerings**: Incense
-**Preferred Mode of Worship**: Acts of Service
-**Temperament**: Jolly
-**Opinion of Mortals:** Benevolent
-**Requires Exclusivity/Devotion For Boons**: No
-**Default Nature of Boons**: Material
+- **Sphere of Influence**: Hot Fire, Smithing, Weaponry
+- **Preferred Offerings**: Incense
+- **Preferred Mode of Worship**: Acts of Service
+- **Temperament**: Jolly
+- **Opinion of Mortals:** Benevolent
+- **Requires Exclusivity/Devotion For Boons**: No
+- **Default Nature of Boons**: Material
 
 # Description
 Hailoch is the god of smithing and weaponry, and the patron of hot fire. He is contrasted with [[Zenus]] as he primarily holds sway over the *power* of fire, and its ability to create and destroy under extreme circumstances. 
