@@ -20,9 +20,9 @@ The war between Ch'ingua and Cretias raged for a period of 12 years, with the ce
 Each time the city was reoccupied by one belligerent army or another, the citizens were subjected to a brutal crackdown and reinstitution of martial law. Over time, the city became a shell of its former self, with once-prosperous markets and town squares going abandoned almost overnight for fear of soldiers patrolling the streets. At its height, Verny was a city of 40,000 people - within the first months of the war, the city's population plummeted as thousands fled elsewhere. As the war raged on, thousands more died due to famine and disease, which ravaged the city owing to the chaos of the war.
 
 With no civil authority to maintain order, disease and violence ruled the city unchecked. Wildfires burned on several occasions, destroying any wooden structures and hollowing out those made of stone. By the end of the conflict in 173 5C, Verny was effectively destroyed.
-```
-SCRIBE'S NOTE: The above is the official statement of the government of Cretias and has not been independently verified or disproven by any recognized authority.
-```
+
+> [!note] Scribe's Note
+> The above is the official statement of the government of Cretias and has not been independently verified or disproven by any recognized authority.
 
 With the destruction of Verny, the conflict began to lose momentum, as the primary motivator for the war in the first place had been a question of Verny's sovereignty. Both belligerent powers accused the other of systematically destroying the city - an act tantamount to genocide. Even so, the war began to taper off, and diplomatic channels opened between the two powers in the hopes of brokering a long-overdue peace.
 
