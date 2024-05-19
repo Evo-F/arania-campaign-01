@@ -1,6 +1,6 @@
 In Session 0, we were introduced to The Party, consisting of:
 
-- **Pamuk**, a Tabaxi Monk hailing from the southern reaches of [[Lampris]]. Pamuk works with the {name pending} Family to scratch out an honest living in a warm, rural, and somewhat underpopulated region. 
+- **Pamuk**, a Tabaxi Monk hailing from the southern reaches of [[Lampris]]. Pamuk works with the Maecia Crime Family to scratch out an honest living in a warm, rural, and somewhat underpopulated region. 
 - **Mukagak**, a Half-Orc Barbarian. 
 - **Darach Abelson**, a Human Artificer. 
 - **{name pending}**, a Human Druid from the northernmost regions of [[Cretias]], even further north than the Elven stronghold of [[Al-Had]]. Spending most of his time in solitude, {name pending} has surely experienced a revelation or two from the stars, though he hasn't disclosed anything of the sort.
