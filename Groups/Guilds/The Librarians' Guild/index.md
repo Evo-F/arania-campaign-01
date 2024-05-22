@@ -20,6 +20,8 @@ An Acolyte is in the second stage of guild membership, having successfully matri
 
 There is no minimum amount of time that one must remain an Acolyte before progressing to the level of Guildsman - some remain Acolytes for their entire lives, usually by choice. In order to progress from Acolyte to Guildsman, a guild member must select a specialty in both scholarship and combat, and demonstrate an advanced proficiency in their chosen specialties. In combat, these specialties are swordsmanship, blunt weaponry, flail-and-chain, knives and daggers, and martial arts. 
 
+Upon reaching Acolyte status, guild members are stripped of their surname and must renounce all titles, claims, and holdings thereof. 
+
 Upon promotion to Guildsman, the guild member will receive a unique honorific title based on their chosen specialty:
 - History - Historian
 - Practical Sciences - Craftsman

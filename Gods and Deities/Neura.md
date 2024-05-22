@@ -14,4 +14,4 @@ Neura takes an indifferent, almost clinical outlook towards mortals, and it is s
 
 Neura very rarely bestows gifts on even her most ardent followers, but when she does, they typically consist of tomes of knowledge that might otherwise be difficult or impossible to obtain. 
 
-It is rumored that [[The Librarians' Guild]] maintains a direct conduit to Neura, which allows them to manage their extensive library and act as scholarly resources for all of Arania. This has neither been confirmed nor denied. 
+It is rumored that [[Groups/Guilds/The Librarians' Guild/index|The Librarians' Guild]] maintains a direct conduit to Neura, which allows them to manage their extensive library and act as scholarly resources for all of Arania. This has neither been confirmed nor denied. 

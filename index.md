@@ -12,7 +12,7 @@ This particular page, the one you are reading right now, is the only page where 
 # The Librarians' Guild recommends...
 - [[Arania - Political Brief|A basic explanation of the great powers of Arania.]]
 - [[Timeline of Arania|A faultless accounting of the major events of Arania up to the present day.]]
-- [[The Librarians' Guild|A brief and blunt overview of who we are.]]
+- [[Groups/Guilds/The Librarians' Guild/index|A brief and blunt overview of who we are.]]
 - [[Aranian Gods and Deities|A simple primer to the gods of Arania.]]
 
 ---

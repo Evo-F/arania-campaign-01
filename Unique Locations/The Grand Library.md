@@ -6,7 +6,7 @@ The Grand Library's main structure is rectangular, encircling a large central co
 The Grand Library is open at all times, and throughout its entire history, has only ever been truly inaccessible a handful of times.
 
 # The Librarians' Guild
-The Grand Library is home to the illustrious [[The Librarians' Guild|Librarians' Guild]], a group of scholars who are also trained in combat. The guildsmen are sworn to protect The Grand Library with their lives, and are similarly sworn to assist anyone who comes to the library seeking knowledge in good faith. 
+The Grand Library is home to the illustrious [[Groups/Guilds/The Librarians' Guild/index|Librarians' Guild]], a group of scholars who are also trained in combat. The guildsmen are sworn to protect The Grand Library with their lives, and are similarly sworn to assist anyone who comes to the library seeking knowledge in good faith. 
 
 Because of their oath, there must always be a guildsman guarding the door to the library, regardless of circumstances. 
 
