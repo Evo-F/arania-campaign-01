@@ -8,10 +8,13 @@ At present, The Timekeepers hold that is the **206th Year of the 5th Cycle**.
 # 2nd Cycle
 - The Timekeepers have not sanctioned any events to be recorded here at this time.
 
-# 3rd Cycle
-- The Timekeepers have not sanctioned any events to be recorded here at this time.
+# 3rd Cycle (833 Years)
+- 554
+	- The city of [[Carrin]] enters a period of significant growth and expansion. 
 
 # 4th Cycle (1114 Years)
+- 843
+	- The city of [[Carrin]] creates the ward of **East Carrin**. 
 - 902
 	- [[Yarbus Ossetius|King Yarbus of Ch'ingua]] decrees the closure of all institutions of learning and the prosecution of practitioners thereof.
 		- *See [[Nightfall]].*

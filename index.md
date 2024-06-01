@@ -16,5 +16,11 @@ This particular page, the one you are reading right now, is the only page where 
 - [[Aranian Gods and Deities|A simple primer to the gods of Arania.]]
 
 ---
-
-*DM's Note - Everything visible here is considered either common knowledge or has been revealed to the party over time. Expect this compendium to update frequently.*
+> [!example] DM's Note
+> Everything visible here is considered either common knowledge or has been revealed to the party over time. Expect this compendium to update frequently.
+---
+> [!info] Licensing Information
+> This wiki is broadly licensed under the [MIT License](https://opensource.org/license/mit), a permissive license intended for use with open-source software.
+> The MIT license permits others to use this wiki and the information contained herein for any purpose, as long as any derivative works or copies are similarly licensed with this notice included.
+> 
+> Copyright 2024 | Evo Fearnley
