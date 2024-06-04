@@ -15,6 +15,10 @@ This particular page, the one you are reading right now, is the only page where 
 - [[Groups/Guilds/The Librarians' Guild/index|A brief and blunt overview of who we are.]]
 - [[Aranian Gods and Deities|A simple primer to the gods of Arania.]]
 
+Additionally, the following articles have been updated recently:
+- [[Carrin|An outline of the great city of Carrin and its wards.]]
+- [[Session 01|An account of the exploits of The Wandering Cartographers (name pending).]]
+
 ---
 > [!example] DM's Note
 > Everything visible here is considered either common knowledge or has been revealed to the party over time. Expect this compendium to update frequently.

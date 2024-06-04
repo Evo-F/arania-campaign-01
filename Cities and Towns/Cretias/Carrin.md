@@ -20,6 +20,8 @@ Northgate, as the name suggests, is the area nearest to Carrin's northern gate, 
 East Carrin is the newest section of Carrin, having been constructed in the middle of the 4th Cycle just prior to the Nightfall. East Carrin is lightly populated, instead primarily consisting of trading posts and stores which do business through the city's busy Eastern Gate. Carrin's main garrison can also be found in East Carrin. 
 ## Southways
 Southways is the name given to the southern section of the city. Aside from its proximity to the Southern Gate, there is nothing particularly significant about Southways.
+
+The Carrish guard detachment for this ward is known for attempting to extort money from travelers leaving the city through the Southern Gate. **It is strictly advised NOT to give any money to members of the Southways Guard**, lest it embolden their antics even further.
 ## The Docklands
 The Docklands follows the line of Carrin's coastline and is largely populated by dock workers, fishermen, and sailors. This ward is largely working-class like Northgate, but surprisingly does not cater much to travelers at all. Most people transiting through Carrin via the sea will choose to spend their shore leave elsewhere.
 ## Buxton
@@ -38,6 +40,6 @@ The Warren is the only ward which does not have any major highways running *thro
 
 
 # Politics
-Each of Carrin's nine wards is represented by an alderman elected by the ward residents. The aldermen serve as a ruling council to jointly govern the city, with one alderman being elected as the mayor for a term of two years. A simple majority of aldermen is required to elect the mayor (four out of seven), and aldermen are permitted to vote for themselves. 
+Each of Carrin's nine wards is represented by an alderman elected by the ward residents. The aldermen serve as a ruling council to jointly govern the city, with one alderman being elected as the mayor for a term of two years. A simple majority of aldermen is required to elect the mayor (five out of nine), and aldermen are permitted to vote for themselves. 
 
 When it is time to vote for a mayor, the aldermen must make their decision within three days. If a decision is not reached in this time, the people of Carrin get to vote between the two aldermen who have consistently received the most votes in the council. All adult citizens of Carrin are able to vote in this circumstance. 
