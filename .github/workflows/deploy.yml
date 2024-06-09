@@ -37,6 +37,7 @@ jobs:
           cd ./markdown
           cp -a !(quartz.config.ts) ../quartz/content
           cp quartz.config.ts ../quartz
+          cp quartz.layout.ts ../quartz
       ############# Set up NodeJS on our runner.
       - uses: actions/setup-node@v3
         with:
