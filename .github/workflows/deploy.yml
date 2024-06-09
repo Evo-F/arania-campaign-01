@@ -35,9 +35,9 @@ jobs:
         run: |
           shopt -s extglob
           cd ./markdown
-          cp -a !(quartz.config.ts) ../quartz/content
-          cp quartz.config.ts ../quartz
-          cp quartz.layout.ts ../quartz
+          mv .quartz ../quartz
+          cp -r * ../quartz/content
+          
       ############# Set up NodeJS on our runner.
       - uses: actions/setup-node@v4
         with:
