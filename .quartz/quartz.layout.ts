@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
 		title: "Navigation", // title of the explorer component
 		folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
 		folderDefaultState: "open",
+		useSavedState: false,
 	})),
   ],
   right: [
