@@ -39,7 +39,7 @@ jobs:
           cp quartz.config.ts ../quartz
           cp quartz.layout.ts ../quartz
       ############# Set up NodeJS on our runner.
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: 18.14
       ############# Actually configure and build Quartz, which we have to do before our runner can use it.
