@@ -48,7 +48,12 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+		title: "Navigation", // title of the explorer component
+		folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+		folderDefaultState: "open",
+		useSavedState: false,
+	})),
   ],
   right: [],
 }
