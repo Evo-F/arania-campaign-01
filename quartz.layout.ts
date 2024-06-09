@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
 		title: "Navigation",
 		folderClickBehavior: "link",
 		folderDefaultState: "open"
-	)),
+	}),
   ],
   right: [
     Component.Graph(),
