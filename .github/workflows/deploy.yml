@@ -34,8 +34,16 @@ jobs:
       - name: Copy MD To Quartz
         run: |
           shopt -s extglob
-          cd ./markdown
-          mv .quartz ../quartz
+          cd ./markdown/.quartz
+          echo "We are in .quartz"
+          ls -l
+          echo "Moving stuff to core Quartz directory..."
+          mv -f * ../../quartz
+          echo "Contents of current directory:"
+          ls -l
+          echo "Contents of core Quartz directory:"
+          ls -l ../../quartz
+          cd ..
           cp -r * ../quartz/content
           
       ############# Set up NodeJS on our runner.
