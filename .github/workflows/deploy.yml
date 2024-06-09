@@ -19,13 +19,13 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       ############# Checks out a copy of Quartz onto our runner, under the ./quartz subdirectory.
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: jackyzha0/quartz
           path: './quartz'
           fetch-depth: 0 # Fetch all history for git info
       ############# Checks out our own directory onto our runner, under the ./markdown subdirectory.
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: './markdown'
           fetch-depth: 0
