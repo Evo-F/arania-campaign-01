@@ -13,7 +13,7 @@ This particular page, the one you are reading right now, is the only page where 
 - [[Arania - Political Brief|A basic explanation of the great powers of Arania.]]
 - [[Timeline of Arania|A faultless accounting of the major events of Arania up to the present day.]]
 - [[Groups/Guilds/The Librarians' Guild/index|A brief and blunt overview of who we are.]]
-- [[Aranian Gods and Deities|A simple primer to the gods of Arania.]]
+- [[Gods and Deities/index|A simple primer to the gods of Arania.]]
 
 Additionally, the following articles have been updated recently:
 - [[Carrin|An outline of the great city of Carrin and its wards.]]
