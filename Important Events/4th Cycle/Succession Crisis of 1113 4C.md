@@ -1,4 +1,4 @@
-The Succession Crisis of 1113 4C was a period of brief civil unrest in the nation of [[Ch'ingua]] following the death of King Crallus III "The Brief" of House Ossetius. This period concluded with [[House Margrave]] declaring themselves as the Ch'inguan Royal House uncontested and the crowning of King Michael I "The Usurper." 
+The Succession Crisis of 1113 4C was a period of brief civil unrest in the nation of [[Places/Ch'ingua/index]] following the death of King Crallus III "The Brief" of House Ossetius. This period concluded with [[House Margrave]] declaring themselves as the Ch'inguan Royal House uncontested and the crowning of King Michael I "The Usurper." 
 
 # Origins
 In early 1113 4C, Crallus III is crowned as king of Ch'ingua following the death of his father, King Perseus II. Crallus was the only son of Perseus and was known from birth for being sickly and generally weak. As a result, Crallus himself died only three months into his reign, accomplishing nothing of note and siring no heirs legitimate or otherwise.

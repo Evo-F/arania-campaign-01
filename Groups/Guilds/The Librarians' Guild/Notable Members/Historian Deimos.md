@@ -1,4 +1,4 @@
-Historian Deimos (formerly Deimos Stormswift) is a Half-Elf scholar of [[The Grand Library]]. He has served in [[Groups/Guilds/The Librarians' Guild/index|The Librarians' Guild]] for 31 years, and is considered the unofficial head of the History Wing. Deimos originally hails from the city of [[Al-Had]] in the northern forest of [[Cretias]]. 
+Historian Deimos (formerly Deimos Stormswift) is a Half-Elf scholar of [[The Grand Library]]. He has served in [[Groups/Guilds/The Librarians' Guild/index|The Librarians' Guild]] for 31 years, and is considered the unofficial head of the History Wing. Deimos originally hails from the city of [[Al-Had]] in the northern forest of [[Places/Cretias/index|Cretias]]. 
 
 Deimos entered the Guild as an Initiate at the age of 19. Originally, Deimos had intended to enlist in the Cretian National Guard at the age of 16, but he failed his physical fitness examination due to his frail stature. For the next three years, a despondent Deimos worked in the local civil service of Al-Had, continuing his studies in both history and military strategy. 
 
