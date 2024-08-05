@@ -4,10 +4,10 @@
 
 # CONFIDENTIAL
 
-**Subject Name:** Turear Ambermane
-**Known Aliases:** None
-**Status:** On Station, Frozen Waste
-**Apprehension Orders:** Surveillance Only
+- **Subject Name:** Turear Ambermane
+- **Known Aliases:** None
+- **Status:** On Station, Frozen Waste
+- **Apprehension Orders:** Surveillance Only
 
 ## NOTES
 - Turear Ambermane is the current leader of the P\[REDACTED] D\[REDACTED] and has been tasked with carrying on the work of former leader A. Peterson (ref. file #12553). 

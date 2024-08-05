@@ -4,9 +4,9 @@
 
 # CONFIDENTIAL
 
-**Asset Name:** Albus Cole
-**Known Aliases:** None
-**Status:** Cooperative
+- **Asset Name:** Albus Cole
+- **Known Aliases:** None
+- **Status:** Cooperative
 
 ## NOTES
 - Albus Cole is the current patriarch of House Cole, a major noble house in Ch'ingua.

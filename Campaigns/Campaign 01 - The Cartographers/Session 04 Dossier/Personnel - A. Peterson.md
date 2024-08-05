@@ -4,11 +4,11 @@
 
 # CONFIDENTIAL
 
-**Subject Name:** Abel Peterson
-**Known Aliases:** "A", "Old Peterson", "The Craftsman"
-**Status:** AWOL
-**Apprehension Orders:** Arrest On Sight | Bloodless
-**Family:** Wife, Son
+- **Subject Name:** Abel Peterson
+- **Known Aliases:** "A", "Old Peterson", "The Craftsman"
+- **Status:** AWOL
+- **Apprehension Orders:** Arrest On Sight | Bloodless
+- **Family:** Wife, Son
 - Wife is under direct supervision by C.M. and considered non-threat.
 - Son's whereabouts unknown, wanted for questioning.
 

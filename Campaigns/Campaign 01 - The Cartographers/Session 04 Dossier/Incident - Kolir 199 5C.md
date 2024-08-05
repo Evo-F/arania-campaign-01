@@ -4,9 +4,9 @@
 
 # SOC CONFIDENTIAL
 
-**Date of Incident:** May thru November 199 5C
-**Description:** Prolonged and violent civil unrest throughout the city of Kolir and surrounding towns. 
-**Overall Result:** Success
+- **Date of Incident:** May thru November 199 5C
+- **Description:** Prolonged and violent civil unrest throughout the city of Kolir and surrounding towns. 
+- **Overall Result:** Success
 
 ## RESULTS
 - Unrest initiated following destruction of the home of a local populist leader by way of PD-001-A. 

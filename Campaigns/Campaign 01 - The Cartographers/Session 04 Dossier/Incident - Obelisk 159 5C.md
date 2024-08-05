@@ -4,8 +4,8 @@
 
 # SOC CONFIDENTIAL
 
-**Date of Incident:** 3 March 159 5C
-**Description:** Discovery and accidental deployment of artifact designated PD-001 (ref. file #44089).
+- **Date of Incident:** 3 March 159 5C
+- **Description:** Discovery and accidental deployment of artifact designated PD-001 (ref. file #44089).
 
 ## DESCRIPTION
 - On the 3rd of March 159 5C, a covert recovery team was performing a survey at the \[REDACTED] Obelisk near the Cretias-Lampris border. During this survey, one member of the recovery team identified and extracted a small stone later designated PD-001.

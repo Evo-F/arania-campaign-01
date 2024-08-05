@@ -4,10 +4,10 @@
 
 # SOC CONFIDENTIAL
 
-**Artifact Colloquial Name:** The Fist
-**Artifact Official Identifier:** PD-001
-**Artifact Origin:** Unknown
-**Artifact Alignment:** Unknown
+- **Artifact Colloquial Name:** The Fist
+- **Artifact Official Identifier:** PD-001
+- **Artifact Origin:** Unknown
+- **Artifact Alignment:** Unknown
 
 ## DESCRIPTION
 Artifact designation PD-001, or "The Fist", is a small crimson stone of unknown origin. The artifact is at all times warm to the touch. 

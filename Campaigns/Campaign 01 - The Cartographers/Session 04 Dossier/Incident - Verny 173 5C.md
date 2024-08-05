@@ -4,9 +4,9 @@
 
 # SOC CONFIDENTIAL
 
-**Date of Incident:** 4 April 173 5C
-**Description:** Destruction of Verny and surrounding environs by deployment of artifact PD-001 (ref. file #44089). 
-**Overall Result:** Success with Advisory
+- **Date of Incident:** 4 April 173 5C
+- **Description:** Destruction of Verny and surrounding environs by deployment of artifact PD-001 (ref. file #44089). 
+- **Overall Result:** Success with Advisory
 
 ## RESULTS
 - Results as anticipated: total destruction of Verny and surroundings by use of PD-001. 

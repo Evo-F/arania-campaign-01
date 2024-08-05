@@ -4,9 +4,9 @@
 
 # SOC CONFIDENTIAL
 
-**Asset Name:** \[EXPUNGED]
-**Known Aliases:** Isenbard
-**Status:** Released / Uncontrolled (assessed non-threat)
+- **Asset Name:** \[EXPUNGED]
+- **Known Aliases:** Isenbard
+- **Status:** Released / Uncontrolled (assessed non-threat)
 
 ## NOTES
 - The individual presently known as Isenbard is a human male in his late 20s to early 30s.

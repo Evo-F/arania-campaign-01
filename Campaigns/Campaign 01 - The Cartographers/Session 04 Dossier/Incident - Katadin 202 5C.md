@@ -4,9 +4,9 @@
 
 # SOC CONFIDENTIAL
 
-**Date of Incident:** 3 September 202 5C
-**Description:** Destruction of Council Hall, Public Works Ministry, and other government buildings in Katadin.
-**Overall Result:** Partial Success
+- **Date of Incident:** 3 September 202 5C
+- **Description:** Destruction of Council Hall, Public Works Ministry, and other government buildings in Katadin.
+- **Overall Result:** Partial Success
 
 ## RESULTS
 - Targeted buildings were destroyed with moderate collateral damage.

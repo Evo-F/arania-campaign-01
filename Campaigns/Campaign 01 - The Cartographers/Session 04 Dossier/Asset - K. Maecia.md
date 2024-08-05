@@ -4,9 +4,9 @@
 
 # CONFIDENTIAL
 
-**Asset Name:** Kedi Maecia
-**Known Aliases:** "The Matriarch", "Big K"
-**Status:** Cooperative
+- **Asset Name:** Kedi Maecia
+- **Known Aliases:** "The Matriarch", "Big K"
+- **Status:** Cooperative
 
 ## NOTES
 - Kedi Maecia is the present matriarch of the Maecia Crime Family, operating in the southern portion of Lampris. 
