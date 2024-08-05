@@ -26,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode()
   ],
+  left: [],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents())
@@ -46,6 +47,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode()
   ],
+  left: [],
   right: [
 	Component.Graph()
   ],
