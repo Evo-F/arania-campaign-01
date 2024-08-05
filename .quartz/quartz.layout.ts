@@ -25,18 +25,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-		title: "Navigation", // title of the explorer component
-		folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-		folderDefaultState: "collapsed",
-		useSavedState: false,
-	})),
+    Component.Darkmode()
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents())
   ],
 }
 
@@ -48,12 +41,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-		title: "Navigation", // title of the explorer component
-		folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-		folderDefaultState: "collapsed",
-		useSavedState: false,
-	})),
   ],
-  right: [],
+  right: [
+	Component.Graph()
+  ],
 }

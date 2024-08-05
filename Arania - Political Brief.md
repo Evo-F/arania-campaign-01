@@ -5,7 +5,7 @@ The continent of **Arania** is an old and storied land dominated by three nation
 	- Barristow
 	- [[Carrin]]
 	- Al-Had
-	- Verny
+	- [[Verny]]
 	- Chillrend
 	- Maris
 	- Elmrest
