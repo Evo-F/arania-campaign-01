@@ -1,5 +1,4 @@
 [[Session 01|Previous Session Notes]]
-[[Session 03|Next Session Notes]]
 
 ---
 
@@ -38,3 +37,7 @@ Experiment self-replicating brick
 ```
 
 The true nature of the wall revealed, and with the threat of enemies unknown pursuing them, the Party plans their next move.
+
+---
+
+[[Session 03|Next Session Notes]]

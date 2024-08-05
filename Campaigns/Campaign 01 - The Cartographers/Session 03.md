@@ -1,5 +1,4 @@
 [[Session 02|Previous Session Notes]]
-[[Session 04|Next Session Notes]]
 
 ---
 
@@ -15,3 +14,7 @@ The Party decided to attempt entry into the fortress, and while narrowly avoidin
 ---
 
 Rested and alert, the Party continued their infiltration of the Garrison, with Isenbard temporarily shifting into a mouse in order to explore a nearby staircase. The staircase turned out to lead up to the officers' quarters, and following this revelation, the Party decided to explore further in search of an explanation or artifact that would get them through the area. 
+
+---
+
+[[Session 04|Next Session Notes]]

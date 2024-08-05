@@ -1,7 +1,3 @@
-[[Session 02|Next Session Notes]]
-
----
-
 In Session 1, the Party received their mandate from [[Historian Deimos]], the eccentric Guildsman in charge of the *Historia* wing of The Grand Library. Deimos instructed the Party that they are to infiltrate the hermit kingdom of Ch'ingua, document their entry and exit routes, collect any literary works or artifacts they may find along the way, and return "without causing an international incident" (i.e. bloodless clause). 
 
 *"It is better that you would lay down your own lives before taking another's."* -Deimos
@@ -29,3 +25,7 @@ Darach Abelson devised a plan to dance the Party's way out of trouble, and perfo
 The Party received eight (8) silver pieces and twenty-five (25) gold pieces from various guards as a tribute for Darach's incredible performance.
 
 With that, the four adventurers began their two-week journey over land towards Verny and (hopefully) the kingdom of Ch'ingua.
+
+---
+
+[[Session 02|Next Session Notes]]
