@@ -21,7 +21,8 @@ jobs:
       ############# Checks out a copy of Quartz onto our runner, under the ./quartz subdirectory.
       - uses: actions/checkout@v4
         with:
-          repository: jackyzha0/quartz:v4
+          repository: jackyzha0/quartz
+          ref: refs/tags/v4.2.4
           path: './quartz'
           fetch-depth: 0 # Fetch all history for git info
       ############# Checks out our own directory onto our runner, under the ./markdown subdirectory.
