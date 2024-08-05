@@ -21,15 +21,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
+  header: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    Component.Darkmode()
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents())
+  ],
+  afterBody: [
+	Component.Breadcrumbs()
   ]
 }
 
@@ -39,13 +41,15 @@ export const defaultListPageLayout: PageLayout = {
 	Component.ArticleTitle(), 
 	Component.ContentMeta()
   ],
-  left: [
+  header: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode()
   ],
   right: [
 	Component.Graph()
+  ],
+  afterBody: [
+	Component.Breadcrumbs()
   ]
 }
