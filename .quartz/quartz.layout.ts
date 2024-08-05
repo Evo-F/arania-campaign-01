@@ -30,9 +30,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents())
-  ],
-  afterBody: [
-	Component.Breadcrumbs()
   ]
 }
 
@@ -50,8 +47,5 @@ export const defaultListPageLayout: PageLayout = {
   left: [],
   right: [
 	Component.Graph()
-  ],
-  afterBody: [
-	Component.Breadcrumbs()
   ]
 }
