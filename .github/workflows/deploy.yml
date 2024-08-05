@@ -54,11 +54,11 @@ jobs:
       - name: Install Dependencies + Build
         working-directory: ./quartz
         run: |
-          npm i
+          npm ci
           npx quartz build
       ############# Once Quartz is built, sends all the rendered HTML files to GitHub Pages.
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./quartz/public
  
@@ -71,4 +71,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
