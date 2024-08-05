@@ -29,8 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents())
-  ],
-  afterBody: [Component.Breadcrumbs()],
+  ]
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -47,6 +46,5 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
 	Component.Graph()
-  ],
-  afterBody: [Component.Breadcrumbs()],
+  ]
 }
