@@ -1,3 +1,7 @@
+[[Session 03|Previous Session Notes]]
+
+---
+
 In Session 4, the Party was able to identify and infiltrate the Commandant's Office - later identified as Major General Thaddeus Groff.
 
 Surprising for an officer of Groff's station, the quarters were plain and relatively unadorned, featuring only a [[Decree|framed notice]] declaring Groff's promotion and assignment to the Garrison in 201 5C. 

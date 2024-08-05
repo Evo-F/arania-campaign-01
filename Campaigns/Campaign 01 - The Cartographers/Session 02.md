@@ -1,3 +1,8 @@
+[[Session 01|Previous Session Notes]]
+[[Session 03|Next Session Notes]]
+
+---
+
 In Session 2, the Party continued their southward trek from the city of [[Carrin]] towards the city of [[Verny]] and (hopefully) a passage into Ch'ingua. 
 
 After two days on the road, the Party was attacked by three lightly-armed bandits, who turned out to be cultists of the [[Red Star]] with orders to prevent the Party from reaching Verny. One of the bandits held a note, reading:

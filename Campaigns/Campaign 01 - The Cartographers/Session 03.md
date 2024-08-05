@@ -1,3 +1,9 @@
+[[Session 02|Previous Session Notes]]
+[[Session 04|Next Session Notes]]
+
+---
+
+
 In Session 3, the Party had to make a decision on what to do about the wall surrounding the dead area. Initially deciding to go around the wall, the Party was interrupted by a Cretian Military patrol who appeared to pass right through the wall by the same method that Darach had opened it before. The Party decided to try to follow the patrol, under the assumption that they were either going somewhere within the dead area, or were on their way through it.
 
 ---
