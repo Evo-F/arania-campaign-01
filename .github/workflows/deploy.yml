@@ -49,7 +49,7 @@ jobs:
       ############# Set up NodeJS on our runner.
       - uses: actions/setup-node@v4
         with:
-          node-version: 18.14
+          node-version: latest
       ############# Actually configure and build Quartz, which we have to do before our runner can use it.
       - name: Install Dependencies + Build
         working-directory: ./quartz
