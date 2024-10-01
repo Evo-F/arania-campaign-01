@@ -21,3 +21,7 @@ With Pamuk acting as lookout, the Party searched the room for any artifact that 
 After narrowly escaping capture by the Cretian Military (and in Darach's case, surviving a 65-foot drop), the Party continued their march towards the ruins of Verny, reaching it after two days. Seeing footprints in the ash, the Party was able to find the rumored tunnel between Verny and Redmark, following it and resting about halfway through. It was observed that the tunnel seemed to pass right through the containment wall. 
 
 At the Ch'inguan end of the tunnel, the Party emerged in the backroom of an unassuming merchant's shop, and were met by the proprietor of the establishment, Markos. Though at first a friendly and helpful gentleman, the Party was soon ambushed and captured by an unknown group of assailants. Having been blinded and knocked unconscious, it is unclear where the Party is being taken. 
+
+---
+
+[[Session 05|Next Session Notes]]
