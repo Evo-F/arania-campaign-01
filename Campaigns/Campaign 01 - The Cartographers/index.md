@@ -9,4 +9,5 @@ The Party consists of:
 - **Mukagak**, a Half-Orc Barbarian. Mukagak is a follower of [[Hailoch]], the god of craftsmen, and seeks to understand what happened at the Ruined Obelisk.
 - **Darach Abelson**, a Human Artificer born and raised in [[Old Barris]]. Armed with little else but a collection of writings and a musket of his father's design, Darach seeks to reunite with his father Abel, who left Darach's family when Darach was young. 
 - **Isenbard**, a Human Druid from the northernmost regions of [[Places/Cretias/index|Cretias]], even further north than the Elven stronghold of [[Al-Had]]. Spending most of his time in solitude, Isenbard has surely experienced a revelation or two from the stars, though he hasn't disclosed anything of the sort.
+- **Axton Therius**, a Human Wizard from the city of [[Carrin]], raised in the dark alleys of The Warren. Axton is a bright and inquisitive scribe, a natural fit for work at [[The Grand Library]], but the actions of an unscrupulous ancestor set him and his family on a much different path. Now, he seeks to redeem himself and his family name. 
 
