@@ -13,3 +13,7 @@ Eventually, the Party was ushered out of the feast room and brought to the armor
 Markos revealed that Darach's father, Abel Peterson, had previously fought and succeeded in the arena in much the same way Darach had - and similarly, Abel had refused membership in the cult, instead choosing to go on his way. Markos also revealed that Abel had passed through the commune not too long ago, seemingly in a hurry to reach the island of Hailoch. 
 
 With this information, and now in the company of Axton Therius, the Party decided to journey west towards the port city of [[Kolir]]. From there, the Party intends to travel to Hailoch by ship. 
+
+---
+
+[[Session 06|Next Session Notes]]

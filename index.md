@@ -22,6 +22,9 @@ Additionally, the following articles have been updated recently:
 ---
 > [!example] DM's Note
 > Everything visible here is considered either common knowledge or has been revealed to the party over time. Expect this compendium to update frequently.
+
+> [!question] Callouts
+> Wondering what these colorful boxes signify? [[Callout Explanation|Click here to find out.]]
 ---
 > [!info] Licensing Information
 > This wiki is broadly licensed under the [MIT License](https://opensource.org/license/mit), a permissive license intended for use with open-source software.
