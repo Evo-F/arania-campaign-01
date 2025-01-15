@@ -92,14 +92,14 @@ Each facility can be one of three sizes: Cramped (100 square feet), Roomy (400 s
 |      Roomy       |        1000 GP         |        500 GP        |        45 days        |       25 days       |
 |       Vast       |        3000 GP         |       2000 GP        |       125 days        |       80 days       |
 ## Basic Facilities
-Basic Facilities are generic rooms which may or may not certain minor effects on either the bastion's owner or the bastion itself. When a bastion is first established, it comes with two Basic Facilities for free - one of size Roomy, and one of size Cramped. 
+Basic Facilities are generic rooms which may or may not convey certain minor effects on either the bastion's owner or the bastion itself. When a bastion is first established, it comes with two Basic Facilities for free - one of size Roomy, and one of size Cramped. 
 
 The type of Basic Facility constructed does not impact its price or construction time, and all Basic Facilities come pre-furnished. 
 
 Numbers shown in parentheses like so (a/b/c) represent values when the facility is of size (Cramped/Roomy/Vast).
 
 **Bedroom**
-- Allows one character to Long Rest whenever they wish. 
+- Allows one character to Long Rest whenever they wish in this room.
 - Bedrooms may be used by any character who is permitted to enter the bastion, not just the bastion's owner.
 
 **Dining Room**
@@ -134,25 +134,26 @@ Starting at level 5, characters may add two Special Facilities to their bastion.
 Numbers shown in parentheses like so (a/b/c) represent values when the facility is of size (Cramped/Roomy/Vast). 
 
 ### Arcane Study
-Level: 5
-Prerequisite: Ability to use an Arcane Focus or tool as a Spellcasting Focus.
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 5
+- Prerequisite: Ability to use an Arcane Focus or tool as a Spellcasting Focus.
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - After spending a Long Rest in your bastion, you gain a magical Charm that lasts for 7 days or until you use it. This Charm allows you to cast *Identify* without expending a spell slot or components. The Charm does not stack.
+
 **Commands**
 - Craft Arcane Focus - The facility's hireling crafts an Arcane Focus. The work takes 7 days and costs no money. The Arcane Focus remains in the bastion until you claim it.
 - Craft Book - The facility's hireling crafts a blank book. The work takes 7 days and costs 10 GP. 
 - Craft Magic Item - Requires level 9+. The facility's hireling crafts a Common or Uncommon magic item according to the Arcana tables in chapter 7 of the DMG. The hireling has proficiency with the tool required to craft the item as well as proficiency in Arcana. The costs associated with crafting that item are applied here.
 	- If the item allows its user to cast any spells from it, the hireling may only assist in crafting it; the bastion's owner or other trusted party must craft the item themselves and have all the spells prepared every day spent crafting the item. 
 ### Archive
-Level: 13
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 13
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - Your Archive has space for (0/2/4) rare and valuable reference books, and upon construction, one is granted to you for free. You may use the Study action on the book as long as both you and the book are present in the bastion, in order to derive a particular unique effect from it. This effect persists for 7 days or until used.
@@ -163,65 +164,72 @@ Unique: Yes
 	- Investigations of the Inquisitive - Advantage, Investigation.
 	- Material Musings on the Nature of the World - Advantage, Nature.
 	- The Old Faith and Other Religions - Advantage, Religion. 
+
 **Commands**
 - Research Helpful Lore - The facility's hireling searches the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast *Legend Lore*, and shares this knowledge with you the next time you speak with them.
 - Acquire New Book - The facility's hireling searches for a new reference book to add to the Archive's collection. The new reference book costs 1000 GP and takes `7 - 1d6` weeks to acquire, during which time a new command cannot be issued.
 	- The 1000 GP is only deducted when the book is ultimately acquired, but if the money is not available at time of acquisition, the book is not acquired and the command is cancelled.
 	- This command may be cancelled prior to completion, but doing so will not allow additional commands to be issued to the Archive on this turn.
+
 **Expansion**
 - Expands the Archive from Roomy to Vast.
 
 ### Armory
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - While the Armory is stocked, your bastion defenders are harder to kill; during a relevant bastion event, roll `1d8` in place of every `1d6` you would normally roll. 
-**Command**
+
+**Commands**
 - Stock Armory - The facility's hireling stocks the Armory with armor, shields, weapons, and ammunition. This takes 7 days and costs 100 GP plus an extra 100 GP for each bastion defender. The total cost is halved if your bastion has a Smithy.
 	- Keep track of how many bastion defenders you have for each stock operation. If additional bastion defenders are recruited later, they will not benefit from the Armory's passive. 
 	- You may also choose to overstock the armory in anticipation of future recruitment. 
 
 ### Barrack
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: No
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: No
 
 **Passive**
 - Provides living quarters for up to (0/12/25) bastion defenders.
+
 **Command**
 - Recruit Defenders - The facility's hireling recruits four bastion defenders who are assigned quarters in this barrack. If there is not enough space in the Barrack, the hireling will recruit up to the Barrack's remaining capacity. 
+
 **Expansion**
 - Expands the Barrack from Roomy to Vast. 
 
 ### Demiplane
-Level: 17
-Prerequisite: Identical to Arcane Study. 
-Space: Vast
-Hirelings: 1
-Unique: Yes
+- Level: 17
+- Prerequisite: Identical to Arcane Study. 
+- Space: Vast
+- Hirelings: 1
+- Unique: Yes
 
 *The Demiplane exists in an extradimensional space and therefore is not attached physically to the bastion and occupies no physical space. The Demiplane is accessed by a magical door that is 10 feet tall and up to 5 feet wide, appearing on a flat, solid surface in one of the other facilities within the bastion. The door can be relocated during a bastion turn if you are present in the bastion.*
 
 **Passive**
 - While in the Demiplane, you can take a Magic action to create a nonmagical object of your choice out of nothing. The object must be no larger than 5 feet in any dimension, may not have a value over 5 GP, and must be made of: wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. This action can only be taken once per Long Rest. 
 - The item may be taken out of the Demiplane through the door.
+
 **Commands**
 - Empower: Arcane Resilience - Magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you may take a full Long Rest in the Demiplane to gain Temporary Hit Points equal to 5 times your level. 
 ### Gaming Hall
-Level: 9
-Prerequisite: None
-Space: Vast
-Hirelings: 4
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Vast
+- Hirelings: 4
+- Unique: Yes
 
 **Passive**
 - None.
+
 **Commands**
 - Gambling Hall - The facility's hirelings turn the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll `1d100` to determine your portion of the winnings according to the below table.
 
@@ -232,11 +240,11 @@ Unique: Yes
 |   86-95   | 4d6 x 10 GP  |
 |   96-00   | 10d6 x 10 GP |
 ### Garden
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: No
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: No
 
 **Passive**
 - Each Garden in your bastion has a type which determines the results of the Harvest command. These types and results are determined according to the below table.
@@ -247,14 +255,15 @@ Unique: No
 |    Food    |                 Garden of delicious mushrooms or vegetables.                  |                           100 days' worth of Rations.                            |
 |    Herb    |           Garden of rare herbs, some of which have medicinal uses.            |     Herbs used to create either ten Healer's Kits or one Potion of Healing.      |
 |   Poison   | Garden stocked with plants and fungi which can produce poisons and antitoxin. | Plants used to create either two vials of Antitoxin or one vial of Basic Poison. |
+
 **Commands**
 - Harvest - The facility's hireling collects items from the Garden according to the above table. The work takes 7 days and costs no money. 
 ### Greenhouse
-Level: 9
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - One plant in your Greenhouse has three magical fruits growing on it. Any creature that eats one of these fruits gains the benefit of the *Lesser Restoration* spell. Fruits that aren't eaten within 24 hours of being picked lose their magic, but fruits will last indefinitely while on the vine. The plant replaces all picked fruits daily at dawn, and cannot be transplanted. 
@@ -263,11 +272,11 @@ Unique: Yes
 - Harvest Healing Herbs - The facility's hireling creates a Greater Potion of Healing made from healing herbs. The work takes 7 days and costs no money.
 - Harvest Poison - The facility's hireling extracts a vial of poison from rare plants or fungi. The work takes 7 days and costs no money. The poison can be one of the following: Assassin's Blood, Malice, Pale Tincture, Truth Serum.
 ### Guildhall
-Level: 17
-Prerequisite: Expertise in any skill.
-Space: Vast
-Hirelings: 1
-Unique: Yes
+- Level: 17
+- Prerequisite: Expertise in any skill.
+- Space: Vast
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - You are now the guild master for the guild inhabiting your Guildhall. You may choose the type of guild, which will determine the guild's possible assignment. The facility is a meeting room where members of your guild discuss important matters in your presence.
@@ -284,35 +293,37 @@ Unique: Yes
 | Shipbuilders' Guild | Your shipbuilders build one of the vehicles in the Airborne and Waterborne Vehicles table of the PHB. You pay the full cost of the vehicle, and the work takes 1 day per 1000 GP of the cost.                                                                                                                           |
 | Thieves' Guild      | Your thieves infiltrate a location within 50 miles of your bastion and steal a nonmagical object from it. The object may be no bigger than 5 feet in any dimension and is delivered to your bastion in `1d6 + 1` days.                                                                                                  |
 ### Laboratory
-Level: 9
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - None.
+
 **Commands**
 - Craft Alchemist's Supplies - The facility's hireling crafts anything that can be made with Alchemist's Supplies.
 - Craft Poison - The facility's hireling crafts a vial containing one application of a poison. The poison can be: Burnt Othur Fumes, Essence of Ether, or Torpor. The work takes 7 days, and you must pay half the poison's cost.
 ### Library
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - None. 
+
 **Commands**
 - Research Topical Lore - The facility's hireling researches a particular topic. This topic can be a legend, a known event or location, a person of significance, a type of creature, or a famous object. The work takes 7 days. When completed, the hireling obtains up to three accurate pieces of information about the topic that were previously unknown to you and shares this knowledge with you the next time you speak with them.
 	- Once this command is used on a particular topic, knowledge on that topic is considered exhausted, and the hireling will not be able to do any further research on it. 
 ### Meditation Chamber
-Level: 13
-Prerequisite: None
-Space: Cramped
-Hirelings: 1
-Unique: Yes
+- Level: 13
+- Prerequisite: None
+- Space: Cramped
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - You may meditate in this facility over a period of 7 days. If you leave the bastion during this time, you gain no benefit. Otherwise, at the end of the seventh day, you gain Advantage on two kinds of saving throws for the next 7 days. Roll a d6 twice according to the below table, rerolling duplicates.
@@ -325,14 +336,15 @@ Unique: Yes
 |    4    |   Intelligence   |
 |    5    |      Wisdom      |
 |    6    |     Charisma     |
+
 **Commands**
 - Inner Peace - All of your bastion's hirelings may use the Meditation Chamber at their discretion to gain a measure of inner peace. You may roll the next bastion event twice and choose the result. 
 ### Menagerie
-Level: 13
-Prerequisite: None
-Space: Vast
-Hirelings: 2
-Unique: Yes
+- Level: 13
+- Prerequisite: None
+- Space: Vast
+- Hirelings: 2
+- Unique: Yes
 
 **Passive**
 - The Menagerie has enclosures big enough to contain up to four Large creatures. Four Small or Medium creatures may occupy the same space as one Large creature within each enclosure.
@@ -357,22 +369,23 @@ Unique: Yes
 | Panther           | M        | 250 GP   |
 | Tiger             | L        | 1000 GP  |
 ### Observatory
-Level: 13
-Prerequisite: Ability to use a Spellcasting Focus.
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 13
+- Prerequisite: Ability to use a Spellcasting Focus.
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - You may use your Observatory to peer into the far corners of Wildspace and the Astral Plane. After spending a Long Rest in your Observatory, you gain a magical Charm that lasts for 7 days or until you use it. The Charm allows you to cast *Contact Other Plane* without expending a spell slot. This Charm does not stack.
+
 **Commands**
 - Eldritch Discovery - You or the facility's hireling are able to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the result is even, nothing is gained. If the result is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is presently in the same plane as you: Charm of Darkvision, Charm of Heroism, or Charm of Vitality.
 ### Pub
-Level: 13
-Prerequisite: None
-Space: Roomy
-Hirelings: (0/1/4)
-Unique: Yes
+- Level: 13
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: (0/1/4)
+- Unique: Yes
 
 **Passive**
 - The Pub has (0/1/2) magical beverage(s) on tap, each of which grants a particular magical effect for drinking a pint. These are:
@@ -390,11 +403,11 @@ Unique: Yes
 **Expansion**
 - Expands the Pub from Roomy to Vast. 
 ### Reliquary
-Level: 13
-Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
-Space: Cramped
-Hirelings: 1
-Unique: Yes
+- Level: 13
+- Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
+- Space: Cramped
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - After spending a Long Rest in your bastion, you gain a magical Charm that lasts for 7 days or until you use it. The Charm allows you to cast *Greater Restoration* without expending a spell slot or using components. This Charm does not stack.
@@ -406,11 +419,11 @@ Unique: Yes
 > We're not using spell components in this campaign, so the function of the Reliquary's talisman will likely be changed at some point in the future if/when it becomes relevant. The original text from the 2024 DMG has been left in place as reference.
 
 ### Sacristy
-Level: 9
-Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 9
+- Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - Spending a Short Rest in your bastion allows you to regain one expended spell slot of level 5 or lower. You cannot gain this benefit again until completing a Long Rest. 
@@ -420,11 +433,11 @@ Unique: Yes
 - Craft Magic Item (Relic) - The facility's hireling crafts a Common or Uncommon magic item chosen by you from the Relics table in the PHB. The hireling has proficiency with the required tools and proficiency in Arcana. The required time and money for the work varies according to the table.
 	- If the item allows its user to cast any spells from it, the hireling may only assist in crafting it; the bastion's owner or other trusted party must craft the item themselves and have all the spells prepared every day spent crafting the item. 
 ### Sanctuary
-Level: 5
-Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 5
+- Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - After spending a Long Rest in your bastion, you gain a magical Charm that lasts for 7 days or until you use it. The Charm allows you to cast *Healing Word* once without expending a spell slot. This Charm does not stack.
@@ -433,11 +446,11 @@ Unique: Yes
 - Craft Sacred Focus - The facility's hireling crafts a Druidic Focus (wooden staff) or a Holy Symbol. The work takes 7 days and costs no money. The item remains in your bastion until you claim it.
 
 ### Sanctum
-Level: 17
-Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
-Space: Roomy
-Hirelings: 4
-Unique: Yes
+- Level: 17
+- Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus.
+- Space: Roomy
+- Hirelings: 4
+- Unique: Yes
 
 **Passive**
 - After spending a Long Rest in your bastion, you gain a magical Charm that lasts for 7 days or until you use it. The Charm allows you to cast *Heal* once without expending a spell slot. This Charm does not stack.
@@ -447,11 +460,11 @@ Unique: Yes
 **Commands**
 - Fortifying Rites - The Sanctum's hirelings perform daily rites that benefit you or another character you name. The beneficiary doesn't need to be in the bastion when the rites are performed. Each time the beneficiary finishes a Long Rest, they gain Temporary Hit Points equal to your level. This effect lasts for 7 days.
 ### Scriptorium
-Level: 9
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - None.
@@ -462,11 +475,11 @@ Unique: Yes
 - Craft Paperwork - The facility's hireling creates up to 50 copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. 
 	- The paperwork may be distributed to one or more locations within 50 miles of your bastion for no additional cost. 
 ### Smithy
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: 2
-Unique: Yes
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 2
+- Unique: Yes
 
 **Passive**
 - None.
@@ -476,11 +489,11 @@ Unique: Yes
 - Craft Magic Item (Armament) - If you are level 9+, the facility's hirelings craft a Common or Uncommon magic item chosen by you from the Armaments table in chapter 7 of the PHB. The hirelings have proficiency with the required crafting tool as well as proficiency in Arcana. The time and money spent vary according to the item crafted. 
 	- If the item allows its user to cast any spells from it, the hireling may only assist in crafting it; the bastion's owner or other trusted party must craft the item themselves and have all the spells prepared every day spent crafting the item. 
 ### Stable
-Level: 9
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: No
+- Level: 9
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: No
 
 **Passive**
 - Each Stable comes with one Riding Horse or Camel, and two Ponies or Mules. The facility is big enough to house (0/3/6) Large animals; two Medium creatures occupy the same amount of space as one Large creature. 
@@ -493,11 +506,11 @@ Unique: No
 - Expands the Stable from Roomy to Vast.
 
 ### Storehouse
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - None
@@ -507,11 +520,11 @@ Unique: Yes
 	- Purchased goods have a maximum total value of 500 GP, which increases to 2000 GP at level 9 and 5000 GP at level 13. 
 	- When selling goods from the Storehouse, the buyer pays you an additional 10% of the standard price. This bonus increases to 20% when you reach level 9, 50% when you reach level 13, and 100% when you reach level 17. 
 ### Teleportation Circle
-Level: 9
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - A permanent teleportation circle is inscribed on the ground in this room. The bastion's owner always knows the sigil sequence of the circle.
@@ -520,11 +533,11 @@ Unique: Yes
 - Recruit Spellcaster - The facility's hireling extends an invitation to a Friendly NPC spellcaster. Roll any die. If the result is odd, the invitee declines the invitation. If the result is even, the invitee accepts the invitation and arrives in your bastion via the teleportation circle. While you are in the bastion, you may ask the NPC to cast one Wizard spell of level 4 or lower; at level 17+, level 8 or lower. The spellcaster stays for 14 days or until they cast a spell for you, at which time they will depart immediately. 
 	- The spellcaster will not defend your bastion and will leave immediately if the bastion is attacked.
 ### Theater
-Level: 9
-Prerequisite: None
-Space: Vast
-Hirelings: 4
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Vast
+- Hirelings: 4
+- Unique: Yes
 
 **Passive**
 - None
@@ -539,11 +552,11 @@ Unique: Yes
 		- This die can be expended on a non-combat d20 test, adding the result to the d20 roll. This may be done after the d20 is rolled, but must be done *before* the DM indicates if the roll passed or failed. 
 		- Theater Dies do not stack, and a character may only ever have one. 
 ### Training Area
-Level: 9
-Prerequisite: None
-Space: Vast
-Hirelings: 4
-Unique: No
+- Level: 9
+- Prerequisite: None
+- Space: Vast
+- Hirelings: 4
+- Unique: No
 
 **Passive**
 - One of the facility's hirelings becomes an Expert Trainer selected from the table below. On each bastion turn, you may replace that trainer with another one from the table. 
@@ -556,14 +569,15 @@ Unique: No
 | Tools Expert          | You gain proficiency with one tool of your choice.                                                                                                      |
 | Unarmed Combat Expert | Your Unarmed Strikes deal an extra `1d4` bludgeoning damage.                                                                                            |
 | Weapon Expert         | Choose a type of Simple or Martial weapon. You gain proficiency with that weapon, or if you already have proficiency, you can use its mastery property. |
+
 **Commands**
 - Training - The facility's hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit lasts for 7 days.
 ### Trophy Room
-Level: 9
-Prerequisite: None
-Space: Roomy
-Hirelings: 1
-Unique: Yes
+- Level: 9
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: 1
+- Unique: Yes
 
 **Passive**
 - None
@@ -573,11 +587,11 @@ Unique: Yes
 	- Once this command is used on a particular topic, knowledge on that topic is considered exhausted, and the hireling will not be able to do any further research on it. 
 - Research Trinket Trophy - The facility's hireling searches for a trinket that might be of use to you. The work takes 7 days and costs no money. When the research concludes, roll any die. If the result is odd, the hireling finds nothing useful. If the result is even, the hireling finds a magic item according to a roll on the Implements - Common table.
 ### War Room
-Level: 17
-Prerequisite: Fighting Style feature or Unarmored Defense feature.
-Space: Vast
-Hirelings: 2+
-Unique: Yes
+- Level: 17
+- Prerequisite: Fighting Style feature or Unarmored Defense feature.
+- Space: Vast
+- Hirelings: 2+
+- Unique: Yes
 
 **Passive**
 - The War Room starts with two Lieutenant hirelings, but more can be added.
@@ -589,10 +603,11 @@ Unique: Yes
 	- If one of your Lieutenants is leading the army, that Lieutenant cannot recruit more forces. 
 	- Your bastion's army follows the rules described in the [[Armies and Similar Units]] page. 
 ### Workshop
-Level: 5
-Prerequisite: None
-Space: Roomy
-Hirelings: (0/3/5)
+- Level: 5
+- Prerequisite: None
+- Space: Roomy
+- Hirelings: (0/3/5)
+- Unique: Yes
 
 **Passive**
 - The workshop comes equipped with (0/6/9) kinds of Artisan's Tools of your choice, selected from the below list:
