@@ -20,9 +20,6 @@ Additionally, the following articles have been updated recently:
 - [[Carrin|An outline of the great city of Carrin and its wards.]]
 
 ---
-> [!example] DM's Note
-> Everything visible here is considered either common knowledge or has been revealed to the party over time. Expect this compendium to update frequently.
-
 > [!question] Callouts
 > Wondering what these colorful boxes signify? [[Callout Explanation|Click here to find out.]]
 ---
