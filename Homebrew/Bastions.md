@@ -147,7 +147,7 @@ Unique: Yes
 - Craft Book - The facility's hireling crafts a blank book. The work takes 7 days and costs 10 GP. 
 - Craft Magic Item - Requires level 9+. The facility's hireling crafts a Common or Uncommon magic item according to the Arcana tables in chapter 7 of the DMG. The hireling has proficiency with the tool required to craft the item as well as proficiency in Arcana. The costs associated with crafting that item are applied here.
 	- If the item allows its user to cast any spells from it, the hireling may only assist in crafting it; the bastion's owner or other trusted party must craft the item themselves and have all the spells prepared every day spent crafting the item. 
-## Archive
+### Archive
 Level: 13
 Prerequisite: None
 Space: Roomy
@@ -171,7 +171,7 @@ Unique: Yes
 **Expansion**
 - Expands the Archive from Roomy to Vast.
 
-## Armory
+### Armory
 Level: 5
 Prerequisite: None
 Space: Roomy
