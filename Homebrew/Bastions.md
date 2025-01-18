@@ -588,20 +588,25 @@ Numbers shown in parentheses like so (a/b/c) represent values when the facility 
 - Research Trinket Trophy - The facility's hireling searches for a trinket that might be of use to you. The work takes 7 days and costs no money. When the research concludes, roll any die. If the result is odd, the hireling finds nothing useful. If the result is even, the hireling finds a magic item according to a roll on the Implements - Common table.
 ### War Room
 - Level: 17
-- Prerequisite: Fighting Style feature or Unarmored Defense feature.
+- Prerequisite: Bastion owner is able to serve as an Army Commander. 
 - Space: Vast
 - Hirelings: 2+
 - Unique: Yes
 
 **Passive**
-- The War Room starts with two Lieutenant hirelings, but more can be added.
+- The War Room starts with two Lieutenant hirelings, but more can be added. Each of these Lieutenant hirelings can either be stationed in the War Room itself, or assigned as a Ground Commander for an army that you control. 
+- Each of these Lieutenant hirelings may be generated according to the process detailed below for the command *Recruit Lieutenant.*
 
 **Commands**
-- Recruit Lieutenant - You recruit one new Lieutenant. You can have up to ten Lieutenants at any time. 
-- Recruit Soldiers - One or more of your Lieutenants assembles a small army. Each Lieutenant can muster one hundred Guards (20 if they are to be mounted on Riding Horses) in 7 days. Each assembled Guard and Riding Horse costs 1 GP per day to be fed. The army must be led by you, a trusted ally, or at least one of your Lieutenants; otherwise it disbands immediately. The army disbands if it goes one day without being fed. Otherwise, the army remains until it is destroyed or commanded to disband. 
-	- You may issue recruit orders to multiple Lieutenants, but all recruited forces will muster into one army, to be led by either you or one of your Lieutenants. 
-	- If one of your Lieutenants is leading the army, that Lieutenant cannot recruit more forces. 
-	- Your bastion's army follows the rules described in the [[Armies and Similar Units]] page. 
+- Recruit Lieutenant - You recruit one new Lieutenant according to the following procedure:
+	- Create a new character that is of your character Level - 2. 
+	- Assign this character attributes of your choice according to the Standard Array: 15, 14, 13, 12, 10, 8. 
+	- For every 4 levels that the new character has, rounded down, assign an additional point to the attribute of your choice. 
+- Recruit Soldiers - Instruct one or more Lieutenants stationed in your War Room to recruit soldiers. This work takes 7 days to complete and costs no money. At the end of the seventh day, the recruits may be assigned to one of your armies, or assembled into a new army under a new Ground Commander. Any unassigned recruits are lost at the end of the bastion turn. 
+	- Recruits may be assigned to an army even if that army is not currently at your bastion. In the event that recruits are assigned to a distant army, they will physically travel to the army's location, respecting physical distance and elapsed time. 
+	- You may instruct each Lieutenant to recruit a particular kind of unit - Infantry, Cavalry, or Artillery. Regardless of your choice, and regardless of the Lieutenant's stat block, each Lieutenant will always recruit exactly one unit of the requested type. 
+	- You may only instruct Lieutenants to recruit soldiers if they are stationed in the War Room; Lieutenants who are assigned as Ground Commanders may not participate in recruitment. 
+	- All armies formed in this way follow the rules described in the [[Armies]] page. 
 ### Workshop
 - Level: 5
 - Prerequisite: None

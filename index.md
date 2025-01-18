@@ -10,11 +10,11 @@ But take heed, pupil! This compendium is no mere *book* - indeed, it has been in
 This particular page, the one you are reading right now, is the only page where we shall permit ourselves to editorialize. In our infinite humility, we will exercise restraint and avoid self-aggrandizing ourselves. Instead, we shall provide gentle recommendations for where you might like to begin your current perusal of this wondrous work.
 
 # The Librarians' Guild recommends...
-- [[Campaigns/Campaign 01 - The Cartographers/index|An explanation of the motivations and members of The Cartographers.]]
+- [[Session 00|An explanation of the motivations and members of The Cartographers.]]
 - [[Arania - Political Brief|A basic explanation of the great powers of Arania.]]
 - [[Timeline of Arania|A faultless accounting of the major events of Arania up to the present day.]]
-- [[Groups/Guilds/The Librarians' Guild/index|A brief and blunt overview of who we are.]]
-- [[Gods and Deities/index|A simple primer to the gods of Arania.]]
+- [[Librarians Guild|A brief and blunt overview of who we are.]]
+- [[gods/index|A simple primer to the gods of Arania.]]
 
 Additionally, the following articles have been updated recently:
 - [[Carrin|An outline of the great city of Carrin and its wards.]]
