@@ -27,7 +27,7 @@ At present, The Timekeepers hold that is the **206th Year of the 5th Cycle**.
 	- [[Ariana I]] is crowned the first queen of Ch'ingua since the 3rd Cycle. She rules for 64 years and is considered by most to be a notably just and reasoned queen. 
 - 1113
 	- King Crallus III of Ch'ingua dies after just three months on the throne, creating a power vacuum due to his lack of any heirs (even illegitimate ones). Following a period of brief civil conflict, House Margrave declares themselves the rightful rulers of Ch'ingua and crown Michael I as king. 
-		- *See [[Succession Crisis of 1113 4C]]*. 
+		- *See [[1113_succession_crisis|Succession Crisis of 1113 4C]]*. 
 - 1114
 	- King Michael I of Ch'ingua revokes the [[Royal Decree on the Seditious Nature of Scholars and Scholarship]]. This effectively ends the Nightfall, and The Timekeepers declare this momentous occasion as the end of the 4th Cycle.
 
