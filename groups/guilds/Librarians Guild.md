@@ -1,7 +1,6 @@
 ---
 title: The Librarians' Guild
 ---
-
 # Summary
 The Librarians' Guild is a group of scholars who are also trained in advanced melee combat. The members of this guild are sworn to protect [[The Grand Library]] of [[Carrin]] with their lives, and once advancing beyond the initiate stage, are bound to the library and forbidden from leaving. 
 
