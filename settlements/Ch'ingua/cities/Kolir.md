@@ -1,6 +1,6 @@
 Demonym: *Koliri*
 # Summary
-Kolir is a port city on the eastern coast of [[Ch'ingua]]. Kolir is one of the older cities of Ch'ingua, tracing its roots only as far back as the early 2nd Cycle. 
+Kolir is a port city on the eastern coast of [[Ch'ingua]]. Kolir is one of the older cities of Ch'ingua, tracing its roots as far back as the early 2nd Cycle. 
 
 Kolir is controlled by [[House Kolir]], a Ch'inguan royal house that has held fiefdom over the city since its founding. House Kolir is generally well-respected and liked by the city's citizens.
 # Geography
