@@ -1,0 +1,24 @@
+# Summary
+Lord Albus Cole is the current Lord of [[House Cole]], and by extension, the ruler of the city of [[Fralia]]. Despite his advanced age, Albus Cole is a dominating presence, standing at nearly 7 feet tall and boasting surprisingly well-defined musculature. Because of his "graceful" aging, it is believed by some that Albus Cole is in league with demons, devils, or other dark forces, who have granted him long life in exchange for servitude. 
+# Early Life
+Albus Cole was born to Lord Percival Cole and Lady Ariella Cole in 139 5C, and is the eldest of five siblings. From an early age, Albus demonstrated an uncanny intelligence, and was noted by his tutors to be an incredibly fast learner. He demonstrated such intellect that when he was only 14, he was sent to [[The Grand Library]] of [[Carrin]] for private tutoring by the scholars there. There, he developed skills in the four main competency areas of the Library: history, philosophy, practical sciences, and arcana. 
+# Expulsion From The Library
+At the age of 19, after five years of tutelage at The Grand Library, Albus was expelled from The Grand Library due to his conduct and personal conflict with several Guildsmen. The young Cole was not unaware of his own intellect, and during his time at the Library had developed an attitude of arrogance and narcissism. It was believed by some that he sought to claim the position of Guildmaster by force; as a result, some Guildsmen viewed Albus with suspicion, and were hesitant to teach him more advanced techniques lest they be used against the Guild directly.
+
+On a summer afternoon in 158 5C, the Elder Guildsman in charge of managing The Grand Archives found Albus examining several highly sensitive works related to drawing magical energies directly from the Infernal Plane. Following consultation with the other Elder Guildsmen and the Guildmaster himself, the decision was made that Albus Cole would be expelled from the Library and barred from ever re-entering the grounds. Albus returned to his family home of Fralia, bitter and resentful, privately swearing that he would return to The Grand Library at the head of an army.
+# Conquest of Redmark
+Albus Cole became the Lord of House Cole in 163 5C following the death of his father, Lord Percival Cole. Quite soon after his ascent, Albus sought to make a name for himself and to solidify his authority. 
+
+For many decades even prior to Albus' birth, Fralia had struggled to subjugate and vassalize their neighbors to the north, [[Redmark]]. Although not a particularly large settlement, Redmark held some regional influence thanks to its strategic location near the border with [[Cretias]] and, prior to [[The Verny Conflict]], its proximity to the city of [[Verny]]. The people of Redmark fiercely resisted Fralian authority, and every attempt at pacifying the city directly resulted in heavy losses for House Cole. This led to a policy of non-interference championed by Lord Percival Cole, effectively ending House Cole's ambitions to hold sway over the border town.
+
+Albus Cole, unlike his father, had no interest in peace, and sought to bring Redmark under the banner of House Cole once and for all. One month after assuming control of Fralia, Lord Albus Cole called the banners of House Cole to rally at the city, before personally leading them to Redmark to capture the town and vassalize the famously indignant House Redd. 
+
+Following a three-week siege of Redmark, the forces of House Cole gained entry to the city and sacked it. Albus himself marched to Redmark Hall and, accompanied by members of his own guard, and compelled members of House Redd to swear fealty to him personally. These efforts ultimately succeeded, and Redmark was brought under the banner of House Cole.
+# Allegations of War Crimes
+Very few first-party reports exist detailing House Cole's conquest of Redmark. However, several reports do exist which seem to corroborate claims that Albus Cole committed acts of extreme violence in order to compel House Redd to bow to him. These acts include:
+- Burning non-strategic buildings in Redmark, including homes, artisan shops, houses of healing, and a temple to the god [[Trachan]]. 
+- Ordering his men to plow salt into the fields around Redmark, preventing most crops from growing and forcing the city to rely on Fralia for a reliable food supply.
+- Spilling blood in the Redmark town square, a flagrant violation of Ch'inguan custom. 
+- Summarily executing every member of House Redd, in order of seniority, until such time as one of them would swear fealty to him. 
+
+House Cole has sought to suppress such claims, instead reporting that the people of Redmark welcomed the Fralian armies and in some cases fought alongside them to compel House Redd to "come to their senses" and join with House Cole. None of House Cole's own reports can be independently verified.
