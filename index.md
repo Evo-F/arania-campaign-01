@@ -17,7 +17,8 @@ This particular page, the one you are reading right now, is the only page where 
 - [[gods/index|A simple primer to the gods of Arania.]]
 
 Additionally, the following articles have been updated recently:
-- [[Carrin|An outline of the great city of Carrin and its wards.]]
+- [[Kolir|An outline of the Ch'inguan city of Kolir, its neighborhoods, and its customs.]]
+- [[Lord Albus Cole|An abridged biography of Lord Albus Cole.]]
 
 ---
 > [!question] Callouts
