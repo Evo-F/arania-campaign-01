@@ -1,6 +1,11 @@
 # Summary
 The nation of Ch'ingua holds dominion over the southwestern portion of Arania. Ch'ingua is the oldest of the three major kingdoms of Arania, tracing its origins back to the 2nd Cycle. 
-
+# Settlements
+```dataview
+TABLE WITHOUT ID file.link AS "Settlement", size AS "Size", demonym AS "Demonym"
+FROM "settlements/Ch'ingua"
+SORT size DESC
+```
 # Government
 ## Monarchy
 Ch'ingua is a traditional monarchist state, ruled by a king or queen with absolute power. The role of king or queen is a hereditary office, whereby the eldest son of the ruling monarch inherits the throne upon the monarch's death. In cases where the ruling monarch has no sons, the eldest daughter inherits the throne. 

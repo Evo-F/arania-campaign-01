@@ -1,6 +1,7 @@
 ---
 Nation: Ch'ingua
-Class: Large Town
+Size: 02 - Town
+Demonym: Lusterite
 ---
 
 # Summary

@@ -1,4 +1,10 @@
-//TODO Revise this.
+---
+Nation: 
+Size: 
+Demonym: 
+draft: true
+---
+
 # Summary
 Lok's Town was a small village of about 200 citizens, located approximately half a day's ride south-southeast of [[Barristow]]. It was sacked by a group of soldiers claiming to represent the [[Free Barristow Movement]] in the year 186 5C; during this event, almost all citizens of the town were executed, and the survivors assimilated into the FBM with their identities concealed. 
 

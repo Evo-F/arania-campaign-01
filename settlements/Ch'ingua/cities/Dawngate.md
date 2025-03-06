@@ -1,6 +1,7 @@
 ---
 Nation: Ch'ingua
-Class: City
+Demonym: Dawnae
+Size: 04 - Regional Capital
 ---
 
 # Summary

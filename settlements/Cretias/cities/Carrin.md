@@ -1,7 +1,8 @@
 ---
 Demonym: Carrish
+Nation: Cretias
+Size: 04 - Regional Capital
 ---
-Demonym: *Carrish*
 # Summary
 Carrin is a city on the western coast of Arania, known for its consistent and semi-tropical climate and natural harbor. It is also the home of [[The Grand Library]] which is considered the preeminent house of wisdom and scholarship in all of Arania. 
 

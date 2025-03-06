@@ -1,3 +1,9 @@
+---
+Nation: Cretias
+Size: 02 - Town
+Demonym: Barrish
+---
+
 # Summary
 Old Barris is a small town located west-southwest of [[Barristow]], and is considered the historical founding location of [[Cretias]]. Although the town was historically a major center of commerce and culture, it is now little more than a larger-than-average farming village.
 

@@ -1,12 +1,9 @@
 > [!abstract] Game Rules
 > This page is a detail of D&D **game rules** as opposed to campaign-specific lore or material. 
 
-> [!danger] Spoilers
-> This page contains spoilers for future game sessions.
-
 ---
 
-**Bastions** are player-owned bases of operation introduced in the 2024 edition of the *Dungeon Master's Guide* (5.5e/DnD 2024). Bastions have several unique characteristics, some of which are actually interesting and some of which are not. This page is an explanation of Evo's "default" rules for bastions, which includes some material taken directly from the 2024 DMG and some material that is modified or homebrewed.
+**Bastions** are player-owned bases of operation introduced in the 2024 edition of the *Dungeon Master's Guide* (5.5e/DnD 2024). Bastions have several unique characteristics, some of which are actually interesting and some of which are not. This page is an explanation of Evo's "default" rules for bastions in this campaign, which includes some material taken directly from the 2024 DMG and some material that is modified or homebrewed.
 
 By default, a bastion is owned and controlled by a single character. Bastions may be jointly owned and operated by agreement, but this is not a requirement. In the absence of such an agreement, only the bastion's owner can issue bastion commands.
 # Acquisition
@@ -132,6 +129,42 @@ Starting at level 5, characters may add two Special Facilities to their bastion.
 - During the retrofit, neither the previous nor the new Special Facility will be available. 
 
 Numbers shown in parentheses like so (a/b/c) represent values when the facility is of size (Cramped/Roomy/Vast). 
+
+### Quick Reference Table
+There is **a lot** of information below about every special facility. As such, I've created this handy table to give you very basic information about each facility that you might need to reference. 
+
+| **Facility**         | **Level** | **Character Prereqs** | **Bastion Prereqs** | **Space**    |
+| -------------------- | :-------: | --------------------- | ------------------- | ------------ |
+| Arcane Study         |     5     | SF Arcane             | N/A                 | Roomy        |
+| Archive              |    13     | N/A                   | N/A                 | Roomy / Vast |
+| Armory               |     5     | N/A                   | N/A                 | Roomy        |
+| Barrack              |     5     | N/A                   | N/A                 | Roomy / Vast |
+| Demiplane            |    17     | SF Arcane             | 1+ Other Facilities | Vast         |
+| Gaming Hall          |     9     | N/A                   | N/A                 | Vast         |
+| Garden               |     5     | N/A                   | N/A                 | Roomy        |
+| Greenhouse           |     9     | N/A                   | N/A                 | Roomy        |
+| Guildhall            |    17     | Expertise (any skill) | N/A                 | Vast         |
+| Laboratory           |     9     | N/A                   | N/A                 | Roomy        |
+| Library              |     5     | N/A                   | N/A                 | Roomy        |
+| Meditation Chamber   |    13     | N/A                   | N/A                 | Cramped      |
+| Menagerie            |    13     | N/A                   | N/A                 | Vast         |
+| Observatory          |    13     | SF Arcane             | N/A                 | Roomy        |
+| Pub                  |    13     | N/A                   | N/A                 | Roomy / Vast |
+| Reliquary            |    13     | SF Divine             | N/A                 | Cramped      |
+| Sacristy             |     9     | SF Divine             | N/A                 | Roomy        |
+| Sanctum              |    17     | SF Divine             | N/A                 | Roomy        |
+| Scriptorium          |     9     | N/A                   | N/A                 | Roomy        |
+| Smithy               |     5     | N/A                   | N/A                 | Roomy        |
+| Stable               |     9     | N/A                   | N/A                 | Roomy        |
+| Storehouse           |     5     | N/A                   | N/A                 | Roomy        |
+| Teleportation Circle |     9     | N/A                   | N/A                 | Roomy        |
+| Theater              |     9     | N/A                   | N/A                 | Vast         |
+| Training Area        |     9     | N/A                   | N/A                 | Vast         |
+| Trophy Room          |     9     | N/A                   | N/A                 | Roomy        |
+| War Room             |    17     | N/A                   | N/A                 | Vast         |
+| Workshop             |     5     | N/A                   | N/A                 | Roomy / Vast |
+
+---
 
 ### Arcane Study
 - Level: 5

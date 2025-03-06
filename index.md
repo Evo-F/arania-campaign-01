@@ -10,15 +10,12 @@ But take heed, pupil! This compendium is no mere *book* - indeed, it has been in
 This particular page, the one you are reading right now, is the only page where we shall permit ourselves to editorialize. In our infinite humility, we will exercise restraint and avoid self-aggrandizing ourselves. Instead, we shall provide gentle recommendations for where you might like to begin your current perusal of this wondrous work.
 
 # The Librarians' Guild recommends...
-- [[Session 00|An explanation of the motivations and members of The Cartographers.]]
+- [[Campaign Reference Page|An explanation of the motivations and members of The Cartographers.]]
 - [[Arania - Political Brief|A basic explanation of the great powers of Arania.]]
 - [[Timeline of Arania|A faultless accounting of the major events of Arania up to the present day.]]
 - [[Librarians Guild|A brief and blunt overview of who we are.]]
 - [[gods/index|A simple primer to the gods of Arania.]]
 
-Additionally, the following articles have been updated recently:
-- [[Kolir|An outline of the Ch'inguan city of Kolir, its neighborhoods, and its customs.]]
-- [[Lord Albus Cole|An abridged biography of Lord Albus Cole.]]
 
 ---
 > [!question] Callouts

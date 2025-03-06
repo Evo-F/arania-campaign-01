@@ -1,6 +1,7 @@
 ---
 Nation: Ch'ingua
-Class: City
+Size: 04 - Regional Capital
+Demonym: Tysian
 ---
 
 # Summary

@@ -1,3 +1,9 @@
+---
+Nation: Cretias
+Size: 02 - Town
+Demonym: Marisi
+---
+
 # Summary
 Maris is a large town located northeast of [[Carrin]]. It is known for its primary export, the renowned Marisi Rum. Maris shares the semi-tropical climate of its larger neighbor, and as a result has a fairly unique agricultural makeup which includes sugarcane. 
 

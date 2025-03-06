@@ -1,4 +1,9 @@
-Demonym: *Koliri*
+---
+Nation: Ch'ingua
+Size: 04 - Regional Capital
+Demonym: Koliri
+---
+
 # Summary
 Kolir is a port city on the eastern coast of [[Ch'ingua]]. Kolir is one of the older cities of Ch'ingua, tracing its roots as far back as the early 2nd Cycle. 
 

@@ -1,3 +1,8 @@
+---
+Nation: Lampris
+Size: 03 - City
+Demonym: Shorefolk
+---
 Lakeshore is a small city located on the eastern shore of Lake Orgnar in central Lampris, roughly two days' journey from the border with Ch'ingua. 
 
 Because of its picturesque landscape and generally favorable climate, Lakeshore's economy is based largely around tourism and [financial services](https://en.wikipedia.org/wiki/Tax_haven). Lakeshore is the regional capital of the Orgnar District. 
