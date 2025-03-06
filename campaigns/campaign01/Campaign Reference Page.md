@@ -10,6 +10,7 @@ This campaign follows the exploits of five wandering cartographers. The Party ar
 ## Darach Abelson
 - Human
 - Level 5 Battlesmith Artificer
+
 Darach Abelson is a human hailing from the Cretian town of [[Old Barris]]. When Darach was young, his father [[Abel Peterson]] began to leave home for long periods of time before disappearing entirely five years ago. Darach has made it his mission to reunite with his father and learn the truth about his disappearance. 
 
 Although holding no particular loyalties, Darach is committed to the values instilled in him by his father. He pursues goodness, equality, and humility in all things, and believes that technology (whether mundane or arcane) should always be used for good. 
@@ -17,6 +18,7 @@ Although holding no particular loyalties, Darach is committed to the values inst
 ## Isenbard
 - Human
 - Level 5 Circle of Stars Druid
+
 Isenbard is a human from the cold tundra surrounding the Cretian city of [[Al-Had]]. Isenbard has had to fend for himself from a very young age, developing his survival skills in a hostile environment in total isolation. It is unclear when he began to develop his connection with the stars, but through his years of reflection and solitude he has developed magical druidic powers. 
 
 On account of his long solitude, Isenbard lacks typical social graces and etiquette, often taking a blunt and inelegant approach to problem resolution. He is ruthlessly practical, believing that any entity which cannot take care of itself (whether that is an individual, an organization, or an entire kingdom) does not have an implicit right to exist. 
@@ -24,6 +26,7 @@ On account of his long solitude, Isenbard lacks typical social graces and etique
 ## Pamuk
 - Tabaxi
 - Level 5 Way of Shadow Monk
+
 Pamuk is a Tabaxi monk, born in the southern reaches of Lampris. For most of his life, Pamuk has worked as a member of the [[Maecia Crime Family]], one of any number of Lamprian crime syndicates specializing in smuggling. Pamuk has longstanding relationships with certain members of the Maecia family, most notably his handler, [[Ceylan Pompay]]. Through his work, he has also cultivated connections across all of Arania.
 
 Pamuk is generally patient and practical, preferring to step back and gather as much information as possible before acting. Although he excels in martial combat on account of his feline dexterity, Pamuk is also reasonably intelligent, having studied in the *Historia* wing of The Grand Library prior to joining the Party. 
@@ -31,6 +34,7 @@ Pamuk is generally patient and practical, preferring to step back and gather as 
 ## Mukagak
 - Half-Orc
 - Level 5 Berserker Barbarian
+
 Mukagak is a Half-Orc barbarian originating from a small town outside of [[Southreach]], in the hot Fell Desert of [[Lampris]]. Mukagak learned from a young age that he needed to be ruthless in order to survive, and so did whatever he could to hone his abilities as a warrior. Later in life, he sought favor with the god [[Hailoch]]. Mukagak first came to The Grand Library to do research on the [[Ruined Obelisk]], but was hindered in this task by reading difficulties. Although it was not explicitly stated, [[Historian Deimos]] dispatched Mukagak to accompany the Party mainly to provide some extra muscle.
 
 Despite his large build and Orcish features, Mukagak is by all accounts a reasonable and pleasant person to be around, assuming you're not the target of his battleaxe. 
@@ -39,6 +43,7 @@ Despite his large build and Orcish features, Mukagak is by all accounts a reason
 ## Axton Therius
 - Human
 - Level 5 Scribe Wizard
+
 Axton Therius the 16th is a human wizard from the city of [[Carrin]], specifically the infamous neighborhood known as The Warren. Unlike the other members of the Party, Axton was not dispatched on this quest by The Grand Library, instead joining the Party incidentally when they were all kidnapped by the [[Red Star]]. 
 
 One of Axton's ancestors was a member of The Librarians' Guild at the time of the [[Nightfall]]; instead of staying at the Library to defend it, according to his sworn oath, Axton's ancestor fled the Library. In doing this, he brought dishonor on his entire family, and for a time they had to leave Carrin for fear of persecution. In time, they returned to the city, though have endeavored to keep a low profile by living in The Warren. Axton believes that by completing a quest of great importance for The Grand Library, he will restore his family's reputation and atone for his ancestor's oathbreaking.
