@@ -1,7 +1,7 @@
 ---
 title: Bastion - Drayside
 ---
-In Session 11, The Cartographers received authority over the village of Drayside and its automaton inhabitants. The village was established as a Bastion under Evo's amended Bastion ruleset, which can be referred to [[bastions|here]]. 
+In Session 11, The Cartographers received authority over the village of Drayside and its automaton inhabitants. The village was established as a Bastion under Evo's amended Bastion ruleset, which can be referred to [[homebrew/bastions|here.]]
 
 # Description
 Drayside is a village located at the base of Mount Dray on its west side. The village extends from a small dock in the west to the slopes of Mount Dray in the east. 
