@@ -1,9 +1,8 @@
-> [!abstract] Game Rules
-> This page is a detail of D&D **game rules** as opposed to campaign-specific lore or material. 
-
+---
+title: Bastions - Homebrew Ruleset
 ---
 
-**Bastions** are player-owned bases of operation introduced in the 2024 edition of the *Dungeon Master's Guide* (5.5e/DnD 2024). Bastions have several unique characteristics, some of which are actually interesting and some of which are not. This page is an explanation of Evo's "default" rules for bastions in this campaign, which includes some material taken directly from the 2024 DMG and some material that is modified or homebrewed.
+**Bastions** are player-owned bases of operation introduced in the 2024 edition of the *Dungeon Master's Guide* (5.5e/DnD 2024). Bastions have several unique characteristics, some of which are actually interesting and some of which are not. This page is an explanation of Evo's homebrew rules for bastions in this campaign, which includes some material taken directly from the 2024 DMG and some material that is modified or homebrewed.
 
 By default, a bastion is owned and controlled by a single character. Bastions may be jointly owned and operated by agreement, but this is not a requirement. In the absence of such an agreement, only the bastion's owner can issue bastion commands.
 # Acquisition

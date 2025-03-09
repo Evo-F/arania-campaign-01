@@ -1,5 +1,0 @@
----
-Nation: 
-Size: 
-Demonym:
----
