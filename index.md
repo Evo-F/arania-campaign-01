@@ -24,13 +24,10 @@ Currently in this campaign, the date is 3 April 206 5C.
 | :----: | :----: | :------: | :--: | :------: |
 |   0    |   52   |    50    | 1245 |    0     |
 ## Unique Items
-- Greater Sending Stone
-- Parchment Notebook (nicknamed "The Peepee Book")
-- Bonking Head Mace
-	- `1d10 + 2 Bludgeoning`
-	- `1d4 Necrotic`
-- 750 mL Bottle of Marisi Rum
-	- 155 5C vintage
+- [[greater_sending_stone|Greater Sending Stone]]
+- [[parchment_notebook|Parchment Notebook]]
+- [[albus_cole_mace|Bonking Head Mace]]
+- [[marisi_rum_750|Bottle of Marisi Rum]]
 ## Bastions
 - [[drayside|Village of Drayside]]
 
@@ -38,6 +35,7 @@ Currently in this campaign, the date is 3 April 206 5C.
 ## Darach Abelson
 - Human
 - Level 5 Battlesmith Artificer
+
 Darach Abelson is a human hailing from the Cretian town of Old Barris. When Darach was young, his father [[abel_peterson|Abel Peterson]] began to leave home for long periods of time before disappearing entirely five years ago. Darach has made it his mission to reunite with his father and learn the truth about his disappearance. 
 
 Although holding no particular loyalties, Darach is committed to the values instilled in him by his father. He pursues goodness, equality, and humility in all things, and believes that technology (whether mundane or arcane) should always be used for good. 
@@ -45,6 +43,7 @@ Although holding no particular loyalties, Darach is committed to the values inst
 ## Isenbard
 - Human
 - Level 5 Circle of Stars Druid
+
 Isenbard is a human from the cold tundra surrounding the Cretian city of Al-Had. Isenbard has had to fend for himself from a very young age, developing his survival skills in a hostile environment in total isolation. It is unclear when he began to develop his connection with the stars, but through his years of reflection and solitude he has developed magical druidic powers. 
 
 On account of his long solitude, Isenbard lacks typical social graces and etiquette, often taking a blunt and inelegant approach to problem resolution. He is ruthlessly practical, believing that any entity which cannot take care of itself (whether that is an individual, an organization, or an entire kingdom) does not have an implicit right to exist. 
