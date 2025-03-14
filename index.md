@@ -17,6 +17,7 @@ Currently in this campaign, the date is 3 April 206 5C.
 - [[session10|Session 10]] | 30 March 206 5C - 31 March 206 5C
 - [[session11|Session 11]] | 31 March 206 5C - 1 April 206 5C
 - [[session12|Session 12]] | 3 April 206 5C
+- [[session13|Session 13]] | 4 April 206 5C
 
 # Holdings
 ## Currency
@@ -30,6 +31,8 @@ Currently in this campaign, the date is 3 April 206 5C.
 - [[marisi_rum_750|Bottle of Marisi Rum]]
 ## Bastions
 - [[drayside|Village of Drayside]]
+## Freehold Members
+- Kolir
 
 # Party Members
 ## Darach Abelson
@@ -70,14 +73,15 @@ Despite his large build and Orcish features, Mukagak is by all accounts a reason
 
 ## Axton Therius
 - Human
-- Level 5 Scribe Wizard
+- Level 5 Artillerist Artificer
 
-Axton Therius the 16th is a human wizard from the city of Carrin, specifically the infamous neighborhood known as The Warren. Unlike the other members of the Party, Axton was not dispatched on this quest by The Grand Library, instead joining the Party incidentally when they were all kidnapped by the Red Star. 
+Axton Therius the 16th is a human artificer from the city of Carrin, specifically the infamous neighborhood known as The Warren. Unlike the other members of the Party, Axton was not dispatched on this quest by The Grand Library, instead joining the Party incidentally when they were all kidnapped by the Red Star. 
 
 One of Axton's ancestors was a member of The Librarians' Guild at the time of the Nightfall; instead of staying at the Library to defend it, according to his sworn oath, Axton's ancestor fled the Library. In doing this, he brought dishonor on his entire family, and for a time they had to leave Carrin for fear of persecution. In time, they returned to the city, though have endeavored to keep a low profile by living in The Warren. Axton believes that by completing a quest of great importance for The Grand Library, he will restore his family's reputation and atone for his ancestor's oathbreaking.
 
 In addition to his arcane powers, Axton possesses a uniquely keen mind, granting him near-perfect recall of anything he has seen or heard. Though incredibly intelligent, Axton's commitment to redeeming his family has fostered an often-naive optimism. 
 - Joined the Party in Session 05.
+- Was previously a Scribe Wizard until Session 13.
 
 # Notable Exploits
 ## Infiltrating the Verny Garrison
@@ -88,3 +92,5 @@ In Session 04, the Party (minus Axton) navigated the ruins of Verny and successf
 In Session 05, the Party completed the trials of the Red Star, defeating a number of champions in the underground fighting ring known as the Crimson Sepulcher. For this, they were given the opportunity to join the Red Star and pledge their lives to Barro, though no one did. They were permitted to leave in peace and to never again be pursued by the cult.
 ## Liberating the City of Kolir
 In Session 10, the Party fought and killed Lord Albus Cole, who had led his forces along with a contingent of the Cretian Military to occupy the Ch'inguan city of Kolir. As a result of Cole's death, the city was liberated and restored to the control of House Kolir. Although the Party was responsible for the city's freedom, they departed the city secretly and under cover of darkness; it is unclear to what extent their efforts are known. 
+## Kolir's Secession
+In Session 13, the Party convinced the new ruler of Kolir, Lord Dain Kolir, to join them in a new alliance against the growing threat of Cretias. 
